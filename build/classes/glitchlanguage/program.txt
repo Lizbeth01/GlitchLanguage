@@ -1,0 +1,9 @@
+true Este        es un archivo de prueba
+que contiene multiples líneas y
+(){}
+
+palabras,        tambien               contiene números
++
+
+como mi                 fecha de nacimiento que es
+el 14 de septiembre de 1998. []
